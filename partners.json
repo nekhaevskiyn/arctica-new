@@ -1,0 +1,27 @@
+{
+  "privacyUrl": "#",
+  "partners": [
+    { "name": "Норникель", "logo": "nornikel.png", "url": "https://nornickel.ru/" },
+    { "name": "ВТБ", "logo": "vtb.png", "url": "https://www.vtb.ru/" }
+  ],
+  "infoPartners": [
+    { "name": "ТАСС", "logo": "tass.png", "url": "https://tass.ru/" },
+    { "name": "РИА Новости", "logo": "ria.png", "url": "https://ria.ru/" },
+    { "name": "Первый канал", "logo": "1.png", "url": "https://www.1tv.ru/" },
+    { "name": "Аргументы и факты", "logo": "aif.png", "url": "https://aif.ru/" },
+    { "name": "Gazeta.ru", "logo": "GazetaRu.png", "url": "https://www.gazeta.ru/" },
+    { "name": "Интерфакс", "logo": "interfax.png", "url": "https://www.interfax.ru/" },
+    { "name": "Известия", "logo": "iz.png", "url": "https://iz.ru/" },
+    { "name": "Коммерсантъ", "logo": "kommersant.png", "url": "https://www.kommersant.ru/" },
+    { "name": "Комсомольская правда", "logo": "kp.png", "url": "https://www.kp.ru/" },
+    { "name": "ОТР", "logo": "OTR.png", "url": "https://otr-online.ru/" },
+    { "name": "Парламентская газета", "logo": "pg.png", "url": "https://www.pnp.ru/" },
+    { "name": "РБК", "logo": "RBK.png", "url": "https://www.rbc.ru/" },
+    { "name": "Regnum", "logo": "regnum.png", "url": "https://regnum.ru/" },
+    { "name": "Российская газета", "logo": "RG.png", "url": "https://rg.ru/" },
+    { "name": "Россия Сегодня", "logo": "RS.png", "url": "https://россиясегодня.рф/" },
+    { "name": "Россия 1", "logo": "russia1.png", "url": "https://russia.tv/" },
+    { "name": "Ведомости", "logo": "ved.png", "url": "https://www.vedomosti.ru/" },
+    { "name": "Звезда", "logo": "zvezda.png", "url": "https://tvzvezda.ru/" }
+  ]
+}
